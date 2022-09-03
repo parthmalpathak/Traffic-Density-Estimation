@@ -13,4 +13,4 @@ This project is a deep learning based approach to estimate the traffic density o
 
 ## Demo Implementation of Stitched and Object Detected Image
 
-<img src="Test-Cases/Object_Detection_Image_1.jpg" width="600"/>
+<img src="Test Cases/Object_Detection_Image_1.jpg" width="600"/>
