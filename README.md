@@ -28,3 +28,6 @@ Traffic Density Estimation.ipynb
 ## Resultant Output
 
 <img src="Test Cases/Object_Detection_Image_1.jpg" width="600"/>
+
+## Copyright
+Author [@Parth Malpathak](https://github.com/parthmalpathak)
